@@ -1,3 +1,4 @@
 [submodule "Vendor/HockeySDK"]
 	path = Vendor/HockeySDK
-	url = https://github.com/HockeyWX/HockeySDK.git
+	url = https://github.com/bitstadium/HockeySDK-iOS.git
+	ignore = all
