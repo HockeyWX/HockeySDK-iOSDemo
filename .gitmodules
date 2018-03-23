@@ -1,3 +1,3 @@
 [submodule "Vendor/HockeySDK"]
 	path = Vendor/HockeySDK
-	url = https://github.com/HockeyWX/Test.git
+	url = https://github.com/HockeyWX/HockeySDK.git
